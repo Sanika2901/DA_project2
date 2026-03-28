@@ -18,7 +18,7 @@ ________________________________________________________________________________
 
  •	📁Dataset: Download HR_Analytics.csv
 
-# •	Rows: ~1400 employee records
+ •	Rows: ~1400 employee records
 
 ## • Columns Include:
 o	Employee Demographics (Age, Gender, Marital Status)
