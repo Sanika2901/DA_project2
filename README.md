@@ -1,6 +1,6 @@
 
 
-## 💼 HR Analytics Dashboard – Power BI Project
+## 💼 Workforce Performance and Attrition Analysis
 
 Welcome to my Power BI project on HR Analytics.
 This project is focused on understanding employee attrition patterns, workforce satisfaction, and salary trends through insightful data visualization and dashboarding.
